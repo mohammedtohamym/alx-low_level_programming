@@ -34,7 +34,7 @@ char *argstostr(int ac, char **av)
 			for (p = 0; *(*(av + v) + p) != '\0'; p = p + 1)
 			{
 				string[lenght] = *(*(av + v) + p);
-				lenght + lenght + 1;
+				lenght = lenght + 1;
 			}
 			string[lenght] = '\n';
 			lenght = lenght + 1;
