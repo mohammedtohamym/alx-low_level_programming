@@ -2,7 +2,7 @@
 
 /**
  * _puts_recursion - prints a string recursivley
- * @*s: pointer to the first character in the string
+ * @s: pointer to the first character in the string
  *
  */
 
