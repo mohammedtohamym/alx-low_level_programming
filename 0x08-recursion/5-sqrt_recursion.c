@@ -20,7 +20,7 @@ int _sqrt_recursion_helper(int n, int min, int max)
 	rootsqr = root * root;
 
 	if (rootsqr == n)
-		return (rootsqr);
+		return (root);
 	else if (min == max)
 		return (-1);
 	else if (rootsqr > n)
