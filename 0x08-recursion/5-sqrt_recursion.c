@@ -12,9 +12,9 @@
 
 
 
-int _sqrt_recursion_helper(int n, int min, int max)
+long  _sqrt_recursion_helper(long n, long min, long max)
 {
-	int root, rootsqr;
+	long root, rootsqr;
 
 	root = (min + max) / 2;
 	rootsqr = root * root;
