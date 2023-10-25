@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * _puts_recursion - prints a string recursivley
  * @*s: pointer to the first character in the string
  *
