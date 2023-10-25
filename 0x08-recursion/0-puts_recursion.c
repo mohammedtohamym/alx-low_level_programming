@@ -4,9 +4,6 @@
  * _puts_recursion - prints a string recursivley
  * @*s: pointer to the first character in the string
  *
- * Description: ths functions uses pass by refrence to
- * print a string
- * Return: no return
  */
 
 void _puts_recursion(char *s)
