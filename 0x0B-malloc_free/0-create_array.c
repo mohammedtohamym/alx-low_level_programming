@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdlib.h>
 /**
  * *create_array - returns an initialized array
  *
