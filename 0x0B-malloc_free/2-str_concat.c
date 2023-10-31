@@ -6,7 +6,7 @@
  * @s1: input 1
  * @s2: input 2
  *
- * Return: NULL or s 
+ * Return: NULL or s
 */
 
 char *str_concat(char *s1, char *s2)
@@ -14,6 +14,7 @@ char *str_concat(char *s1, char *s2)
 	int k = 0, m = 0;
 	int i, j;
 	char *s;
+
 	if (s1 == NULL)
 		s1 = "";
 	if (s2 == NULL)
